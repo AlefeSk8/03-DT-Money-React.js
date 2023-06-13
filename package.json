@@ -8,6 +8,7 @@
     "dev:server": "json-server --watch server.json --port 3333 --delay 500",
     "build": "tsc && vite build",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "lint:fix": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0 --fix",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -19,7 +20,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.44.3",
+    "scheduler": "^0.23.0",
     "styled-components": "^6.0.0-rc.3",
+    "use-context-selector": "^1.4.1",
     "zod": "^3.21.4"
   },
   "devDependencies": {

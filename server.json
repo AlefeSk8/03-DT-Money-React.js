@@ -47,6 +47,38 @@
       "category": "Venda",
       "amount": 8900,
       "createdAt": "2023-03-05T14:08:36.505Z"
+    },
+    {
+      "description": "Cinema",
+      "amount": 100,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2023-06-13T18:00:31.631Z",
+      "id": 7
+    },
+    {
+      "description": "Mercado",
+      "amount": 75,
+      "category": "Mercado",
+      "type": "outcome",
+      "createdAt": "2023-06-13T18:02:23.293Z",
+      "id": 8
+    },
+    {
+      "description": "Salário mês 05/2023",
+      "amount": 3500,
+      "category": "Remuneração",
+      "type": "income",
+      "createdAt": "2023-06-13T19:08:34.706Z",
+      "id": 9
+    },
+    {
+      "description": "Burger King",
+      "amount": 65,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-06-13T19:15:25.737Z",
+      "id": 10
     }
   ]
 }
